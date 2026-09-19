@@ -1,0 +1,19 @@
+#Disease Background
+
+Tay-Sachs disease is a rare inherited disease that mainly affects the nervous system. It happens when the body does not have enough working β-hexosaminidase A (Hex A), an enzyme that helps break down GM2 ganglioside inside lysosomes. When the enzyme is missing or does not work properly, GM2 ganglioside starts to build up in nerve cells and causes damage. This can lead to problems such as delayed development, muscle weakness, seizures, and loss of vision and hearing.
+The HEXA c.1274_1277dup is one mutation associated with Tay-Sachs disease. It involves the duplication of four nucleotides, TATC, in the HEXA coding sequence. This changes the reading frame and causes a frameshift, which changes the amino acids after the mutation and creates a premature stop codon. The mutation therefore produces a shorter HEXA protein that is expected to have little or no normal function. With reduced β-hexosaminidase A activity, GM2 ganglioside cannot be properly broken down and continues to accumulate in nerve cells.
+
+## Gene and Normal Protein
+
+The **HEXA** gene (hexosaminidase subunit alpha) is a protein-coding gene located on chromosome 15q23. It provides instructions for making the alpha subunit of the lysosomal enzyme beta-hexosaminidase A. This enzyme, together with GM2 activator protein, helps break down GM2 ganglioside in lysosomes. When HEXA function is impaired, GM2 can accumulate in neurons and contribute to the neurological problems seen in Tay-Sachs disease.
+
+The normal HEXA protein is 529 amino acids long. It is produced as a preproprotein and is processed to form the alpha subunit of beta-hexosaminidase A. The normal protein is involved in lysosomal degradation of GM2 ganglioside and other molecules containing terminal N-acetyl hexosamines.
+
+## Reference Sequences
+
+The reference transcript used is NM_000520.6, which is the RefSeq transcript for HEXA. The corresponding reference protein is NP_000511.2. The HEXA coding sequence (CDS) used for the analysis is 1,590 bp and produces a predicted protein of 529 amino acids.
+
+- **Reference transcript:** NM_000520.6
+- **Reference protein:** NP_000511.2
+- **CDS length:** 1,590 bp
+- **Predicted protein length:** 529 amino acids
