@@ -1,0 +1,28 @@
+WT vs Documented Mutant HEXA Protein Sequence Comparison
+==========================================================
+
+Gene: HEXA
+Reference transcript: NM_000520.6
+Reference protein: NP_000511.2
+
+Documented variant:
+NM_000520.6:c.1274_1277dup
+Protein consequence: p.Tyr427fs
+Mutation type: Frameshift
+
+WT protein length: 529 amino acids
+Mutant protein length: 431 amino acids
+
+Nucleotide sequence around the mutation:
+WT: TATC
+Mutant:  TATCTATC-duplicated
+
+Comparison:
+The documented mutation duplicates four nucleotides, TATC, at
+c.1274–c.1277. This four-nucleotide duplication causes a frameshift
+beginning at approximately amino acid 427. The downstream amino-acid
+sequence is changed and a premature stop codon is produced.
+
+Conclusion:
+The c.1274_1277dup mutation causes a frameshift and produces a
+shorter predicted HEXA protein compared with the WT protein.
